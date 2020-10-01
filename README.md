@@ -54,3 +54,6 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
+
+### More work on Machine Learning
+- Please see [Machine Learning Algorithms](https://github.com/csdankim/ML_Algorithms)
